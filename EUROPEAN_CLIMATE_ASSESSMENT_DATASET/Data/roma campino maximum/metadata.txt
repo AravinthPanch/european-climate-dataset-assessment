@@ -1,0 +1,23 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 17-11-2014
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+176,ROMA CIAMPINO,ITALY,+41:47:00,+012:35:00,105 m 
+----------------------------------------------------------------
+* Land use:
+Inside military airport. Near airport runway.
+* Soil type:
+Mold
+* Surface coverage:
+Grass
+* History:
+Precipitation: <br>
+Until 19951231 the accumulated precipitation was between 18.00-18.00h. <br>
+Subsequently, the accumulation period changed to 0.00-24.00h.
+
