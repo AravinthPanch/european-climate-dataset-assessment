@@ -8,7 +8,7 @@ This work is to study the temperature change in Europe (Italy Climate Dataset).
 
 AUTHOR
 --------------------------------------
-Aravinth Panchadcharam - <me@aravinth.info>
+Aravinth Panchadcharam
 
 
 PLATFORM
